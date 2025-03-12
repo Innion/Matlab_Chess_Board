@@ -1,0 +1,2 @@
+Pentru a deschide interfata tablei de sah in MATLAB, se va deschide fisierul "Matlab_Chessboard_Udriste_Catalin.m" si se va rula scriptul.
+Pentru a incepe un nou joc de sah, se apasa butonul "Play Classic Game", apoi piesele se muta pe rand cu ajutorul butoanelor "Move White" si "Move Black".
